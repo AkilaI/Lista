@@ -1,0 +1,42 @@
+button{
+    border: solid;
+    border-radius: 4px;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    width: 250px;
+}
+
+button:hover{
+    background-color: cadetblue;
+    color: white;
+}
+
+.button1{
+    background-color: green;
+}
+.button2{
+    background-color: firebrick;
+}
+.button3{
+    background-color: orange;
+}
+.button4{
+    background-color: steelblue;
+}
+.button5{
+    background-color: rgb(92, 192, 62);
+
+}
+.button6{
+    background-color: rgb(155, 37, 37);
+}
+
+.button7{
+    background-color: rgb(230, 61, 201);
+
+}
+.button8{
+    background-color: rgb(15, 134, 79);
+
+}

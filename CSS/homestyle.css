@@ -1,0 +1,42 @@
+
+.toprow{
+    margin-top: 100px;
+    margin-bottom: 350px;
+    clear: both;
+}
+
+.bottomrow{
+    margin-top: 50px;
+    clear: both;
+}
+
+.colomn{
+    float: left;
+    width: 25%;
+}
+
+
+.thumb{
+    padding: 5px;
+    width: 150px;
+}
+
+.thumb img{
+    border-style: groove;
+    border-color: aqua;
+    border-radius: 10px;
+    padding: 5px;
+    width: 150px;
+}
+
+.thumb p {
+    color:black;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.thumb img:hover{
+    background-color: rgb(11, 129, 60);
+}
+

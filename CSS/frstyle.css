@@ -1,0 +1,53 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+  body {
+    font-size: 120%;
+    background-image: "../images/ljback.jpg";
+  }
+  
+  .header {
+    width: 30%;
+    margin: 50px auto 0px;
+    color: white;
+    background: rgb(47,150,168);
+    text-align: center;
+    border: 1px solid rgb(47,150,168); 
+    border-bottom: none;
+    border-radius: 10px 10px 0px 0px;
+    padding: 20px;
+  }
+  form, .content {
+    width: 30%;
+    margin: 0px auto;
+    padding: 20px;
+    border: 1px solid #B0C4DE;
+    background: white;
+    border-radius: 0px 0px 10px 10px;
+  }
+  .input_ele {
+    margin: 10px 10px 15px 0px;
+  }
+  .input_ele label {
+    text-align: left;
+    margin: 3px;
+  }
+  .input_ele input {
+    height: 30px;
+    width: 90%;
+    padding: 5px 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid gray;
+  }
+  .btn {
+    padding: 10px;
+    font-size: 15px;
+    color: white;
+    background:rgb(47,150,168);
+    border: none;
+    border-radius: 5px;
+  }
+
+  

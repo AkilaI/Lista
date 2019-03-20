@@ -1,0 +1,51 @@
+body {
+	margin:0;
+	padding:0;
+	font-family:Georgia, 'Times New Roman', Times, serif;
+	line-height: 1.5em;
+	background: ghostwhite ;
+}
+
+#header {
+	
+	background:rgb(47, 150, 168);
+	height: 100px;
+}
+
+#header h2 {
+	padding-top: 30px;
+	right:150px;
+	top:0px;
+	position: absolute;
+	font-family: cursive;
+}
+#nav {
+	height: 54px;
+	width: 100%;
+	background:black;
+	
+}
+
+#footer {
+	clear: left;
+	width: 100%;
+	background: rgb(47, 150, 168);
+	text-align:left;
+	padding: 4px 0;
+}
+.textpad {
+	margin-left: 15px; /* Padding for text */
+}
+
+nav a {
+	float:left;
+	color:black;
+	text-align: center;
+	padding: 15px 36px;
+	text-decoration: none;
+	color: aliceblue;
+}
+
+nav a:hover{
+	background-color: dodgerblue;
+}
